@@ -1,0 +1,4 @@
+ola mundo!
+estou aprendendo linux
+
+ISSO FOI ESCRITO AGORA /n
